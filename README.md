@@ -5,4 +5,9 @@ project to determine meteorites near my home
 
 This project requires Python 3 and the requests package
 
-`python find-meteorites.py`
+First, install pipenv.  Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
