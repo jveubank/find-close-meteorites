@@ -3,11 +3,11 @@ project to determine meteorites near my home
 
 ## Running
 
-This project requires Python 3 and the requests package
+This project runs on Windows and requires Python 3 and the requests package
 
 First, install pipenv.  Then:
 
 ```
 pipenv install
-pipenv run "python find_meteors.py"
+pipenv run "python meteors\find_meteors.py"
 ```
